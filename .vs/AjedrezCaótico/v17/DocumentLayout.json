@@ -1,0 +1,297 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\1\u00BA DAW\\Programaci\u00F3n\\AjedrezCa\u00F3tico\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{362ABF6F-64A7-4FDF-AF00-EB906E25559B}|AjedrezCa\u00F3tico\\AjedrezCa\u00F3tico.csproj|e:\\1\u00BA daw\\programaci\u00F3n\\ajedrezca\u00F3tico\\ajedrezca\u00F3tico\\utility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{362ABF6F-64A7-4FDF-AF00-EB906E25559B}|AjedrezCa\u00F3tico\\AjedrezCa\u00F3tico.csproj|solutionrelative:ajedrezca\u00F3tico\\utility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{362ABF6F-64A7-4FDF-AF00-EB906E25559B}|AjedrezCa\u00F3tico\\AjedrezCa\u00F3tico.csproj|e:\\1\u00BA daw\\programaci\u00F3n\\ajedrezca\u00F3tico\\ajedrezca\u00F3tico\\tablero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{362ABF6F-64A7-4FDF-AF00-EB906E25559B}|AjedrezCa\u00F3tico\\AjedrezCa\u00F3tico.csproj|solutionrelative:ajedrezca\u00F3tico\\tablero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{362ABF6F-64A7-4FDF-AF00-EB906E25559B}|AjedrezCa\u00F3tico\\AjedrezCa\u00F3tico.csproj|E:\\1\u00BA DAW\\Programaci\u00F3n\\AjedrezCa\u00F3tico\\ajedrezca\u00F3tico\\game1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{362ABF6F-64A7-4FDF-AF00-EB906E25559B}|AjedrezCa\u00F3tico\\AjedrezCa\u00F3tico.csproj|solutionrelative:ajedrezca\u00F3tico\\game1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{362ABF6F-64A7-4FDF-AF00-EB906E25559B}|AjedrezCa\u00F3tico\\AjedrezCa\u00F3tico.csproj|E:\\1\u00BA DAW\\Programaci\u00F3n\\AjedrezCa\u00F3tico\\ajedrezca\u00F3tico\\piezaabstracta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{362ABF6F-64A7-4FDF-AF00-EB906E25559B}|AjedrezCa\u00F3tico\\AjedrezCa\u00F3tico.csproj|solutionrelative:ajedrezca\u00F3tico\\piezaabstracta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{362ABF6F-64A7-4FDF-AF00-EB906E25559B}|AjedrezCa\u00F3tico\\AjedrezCa\u00F3tico.csproj|e:\\1\u00BA daw\\programaci\u00F3n\\ajedrezca\u00F3tico\\ajedrezca\u00F3tico\\piezapato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{362ABF6F-64A7-4FDF-AF00-EB906E25559B}|AjedrezCa\u00F3tico\\AjedrezCa\u00F3tico.csproj|solutionrelative:ajedrezca\u00F3tico\\piezapato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{362ABF6F-64A7-4FDF-AF00-EB906E25559B}|AjedrezCa\u00F3tico\\AjedrezCa\u00F3tico.csproj|E:\\1\u00BA DAW\\Programaci\u00F3n\\AjedrezCa\u00F3tico\\ajedrezca\u00F3tico\\menutempo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{362ABF6F-64A7-4FDF-AF00-EB906E25559B}|AjedrezCa\u00F3tico\\AjedrezCa\u00F3tico.csproj|solutionrelative:ajedrezca\u00F3tico\\menutempo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{362ABF6F-64A7-4FDF-AF00-EB906E25559B}|AjedrezCa\u00F3tico\\AjedrezCa\u00F3tico.csproj|E:\\1\u00BA DAW\\Programaci\u00F3n\\AjedrezCa\u00F3tico\\ajedrezca\u00F3tico\\menuforms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{362ABF6F-64A7-4FDF-AF00-EB906E25559B}|AjedrezCa\u00F3tico\\AjedrezCa\u00F3tico.csproj|solutionrelative:ajedrezca\u00F3tico\\menuforms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{362ABF6F-64A7-4FDF-AF00-EB906E25559B}|AjedrezCa\u00F3tico\\AjedrezCa\u00F3tico.csproj|E:\\1\u00BA DAW\\Programaci\u00F3n\\AjedrezCa\u00F3tico\\ajedrezca\u00F3tico\\constantes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{362ABF6F-64A7-4FDF-AF00-EB906E25559B}|AjedrezCa\u00F3tico\\AjedrezCa\u00F3tico.csproj|solutionrelative:ajedrezca\u00F3tico\\constantes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{362ABF6F-64A7-4FDF-AF00-EB906E25559B}|AjedrezCa\u00F3tico\\AjedrezCa\u00F3tico.csproj|E:\\1\u00BA DAW\\Programaci\u00F3n\\AjedrezCa\u00F3tico\\ajedrezca\u00F3tico\\contenido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{362ABF6F-64A7-4FDF-AF00-EB906E25559B}|AjedrezCa\u00F3tico\\AjedrezCa\u00F3tico.csproj|solutionrelative:ajedrezca\u00F3tico\\contenido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{362ABF6F-64A7-4FDF-AF00-EB906E25559B}|AjedrezCa\u00F3tico\\AjedrezCa\u00F3tico.csproj|E:\\1\u00BA DAW\\Programaci\u00F3n\\AjedrezCa\u00F3tico\\ajedrezca\u00F3tico\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{362ABF6F-64A7-4FDF-AF00-EB906E25559B}|AjedrezCa\u00F3tico\\AjedrezCa\u00F3tico.csproj|solutionrelative:ajedrezca\u00F3tico\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{362ABF6F-64A7-4FDF-AF00-EB906E25559B}|AjedrezCa\u00F3tico\\AjedrezCa\u00F3tico.csproj|E:\\1\u00BA DAW\\Programaci\u00F3n\\AjedrezCa\u00F3tico\\ajedrezca\u00F3tico\\piezatorre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{362ABF6F-64A7-4FDF-AF00-EB906E25559B}|AjedrezCa\u00F3tico\\AjedrezCa\u00F3tico.csproj|solutionrelative:ajedrezca\u00F3tico\\piezatorre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{362ABF6F-64A7-4FDF-AF00-EB906E25559B}|AjedrezCa\u00F3tico\\AjedrezCa\u00F3tico.csproj|E:\\1\u00BA DAW\\Programaci\u00F3n\\AjedrezCa\u00F3tico\\ajedrezca\u00F3tico\\piezarey.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{362ABF6F-64A7-4FDF-AF00-EB906E25559B}|AjedrezCa\u00F3tico\\AjedrezCa\u00F3tico.csproj|solutionrelative:ajedrezca\u00F3tico\\piezarey.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{362ABF6F-64A7-4FDF-AF00-EB906E25559B}|AjedrezCa\u00F3tico\\AjedrezCa\u00F3tico.csproj|E:\\1\u00BA DAW\\Programaci\u00F3n\\AjedrezCa\u00F3tico\\ajedrezca\u00F3tico\\piezareina.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{362ABF6F-64A7-4FDF-AF00-EB906E25559B}|AjedrezCa\u00F3tico\\AjedrezCa\u00F3tico.csproj|solutionrelative:ajedrezca\u00F3tico\\piezareina.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{362ABF6F-64A7-4FDF-AF00-EB906E25559B}|AjedrezCa\u00F3tico\\AjedrezCa\u00F3tico.csproj|E:\\1\u00BA DAW\\Programaci\u00F3n\\AjedrezCa\u00F3tico\\ajedrezca\u00F3tico\\piezapeon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{362ABF6F-64A7-4FDF-AF00-EB906E25559B}|AjedrezCa\u00F3tico\\AjedrezCa\u00F3tico.csproj|solutionrelative:ajedrezca\u00F3tico\\piezapeon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{362ABF6F-64A7-4FDF-AF00-EB906E25559B}|AjedrezCa\u00F3tico\\AjedrezCa\u00F3tico.csproj|E:\\1\u00BA DAW\\Programaci\u00F3n\\AjedrezCa\u00F3tico\\ajedrezca\u00F3tico\\piezademonio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{362ABF6F-64A7-4FDF-AF00-EB906E25559B}|AjedrezCa\u00F3tico\\AjedrezCa\u00F3tico.csproj|solutionrelative:ajedrezca\u00F3tico\\piezademonio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{362ABF6F-64A7-4FDF-AF00-EB906E25559B}|AjedrezCa\u00F3tico\\AjedrezCa\u00F3tico.csproj|E:\\1\u00BA DAW\\Programaci\u00F3n\\AjedrezCa\u00F3tico\\ajedrezca\u00F3tico\\interfaces.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{362ABF6F-64A7-4FDF-AF00-EB906E25559B}|AjedrezCa\u00F3tico\\AjedrezCa\u00F3tico.csproj|solutionrelative:ajedrezca\u00F3tico\\interfaces.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{362ABF6F-64A7-4FDF-AF00-EB906E25559B}|AjedrezCa\u00F3tico\\AjedrezCa\u00F3tico.csproj|E:\\1\u00BA DAW\\Programaci\u00F3n\\AjedrezCa\u00F3tico\\ajedrezca\u00F3tico\\pantalla.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{362ABF6F-64A7-4FDF-AF00-EB906E25559B}|AjedrezCa\u00F3tico\\AjedrezCa\u00F3tico.csproj|solutionrelative:ajedrezca\u00F3tico\\pantalla.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Tablero.cs",
+              "DocumentMoniker": "E:\\1\u00BA DAW\\Programaci\u00F3n\\AjedrezCa\u00F3tico\\AjedrezCa\u00F3tico\\Tablero.cs",
+              "RelativeDocumentMoniker": "AjedrezCa\u00F3tico\\Tablero.cs",
+              "ToolTip": "E:\\1\u00BA DAW\\Programaci\u00F3n\\AjedrezCa\u00F3tico\\AjedrezCa\u00F3tico\\Tablero.cs",
+              "RelativeToolTip": "AjedrezCa\u00F3tico\\Tablero.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAuwIkCAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T15:43:00.395Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Utility.cs",
+              "DocumentMoniker": "E:\\1\u00BA DAW\\Programaci\u00F3n\\AjedrezCa\u00F3tico\\AjedrezCa\u00F3tico\\Utility.cs",
+              "RelativeDocumentMoniker": "AjedrezCa\u00F3tico\\Utility.cs",
+              "ToolTip": "E:\\1\u00BA DAW\\Programaci\u00F3n\\AjedrezCa\u00F3tico\\AjedrezCa\u00F3tico\\Utility.cs",
+              "RelativeToolTip": "AjedrezCa\u00F3tico\\Utility.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T18:11:15.789Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "PiezaPeon.cs",
+              "DocumentMoniker": "E:\\1\u00BA DAW\\Programaci\u00F3n\\AjedrezCa\u00F3tico\\AjedrezCa\u00F3tico\\PiezaPeon.cs",
+              "RelativeDocumentMoniker": "AjedrezCa\u00F3tico\\PiezaPeon.cs",
+              "ToolTip": "E:\\1\u00BA DAW\\Programaci\u00F3n\\AjedrezCa\u00F3tico\\AjedrezCa\u00F3tico\\PiezaPeon.cs",
+              "RelativeToolTip": "AjedrezCa\u00F3tico\\PiezaPeon.cs",
+              "ViewState": "AQIAAJgAAAAAAAAAAAAwwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T15:09:10.912Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "PiezaDemonio.cs",
+              "DocumentMoniker": "E:\\1\u00BA DAW\\Programaci\u00F3n\\AjedrezCa\u00F3tico\\AjedrezCa\u00F3tico\\PiezaDemonio.cs",
+              "RelativeDocumentMoniker": "AjedrezCa\u00F3tico\\PiezaDemonio.cs",
+              "ToolTip": "E:\\1\u00BA DAW\\Programaci\u00F3n\\AjedrezCa\u00F3tico\\AjedrezCa\u00F3tico\\PiezaDemonio.cs",
+              "RelativeToolTip": "AjedrezCa\u00F3tico\\PiezaDemonio.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAowAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T15:08:23.956Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MenuTempo.cs [Dise\u00F1o]",
+              "DocumentMoniker": "E:\\1\u00BA DAW\\Programaci\u00F3n\\AjedrezCa\u00F3tico\\AjedrezCa\u00F3tico\\MenuTempo.cs",
+              "RelativeDocumentMoniker": "AjedrezCa\u00F3tico\\MenuTempo.cs",
+              "ToolTip": "E:\\1\u00BA DAW\\Programaci\u00F3n\\AjedrezCa\u00F3tico\\AjedrezCa\u00F3tico\\MenuTempo.cs [Dise\u00F1o]",
+              "RelativeToolTip": "AjedrezCa\u00F3tico\\MenuTempo.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T17:38:36.461Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PiezaAbstracta.cs",
+              "DocumentMoniker": "E:\\1\u00BA DAW\\Programaci\u00F3n\\AjedrezCa\u00F3tico\\AjedrezCa\u00F3tico\\PiezaAbstracta.cs",
+              "RelativeDocumentMoniker": "AjedrezCa\u00F3tico\\PiezaAbstracta.cs",
+              "ToolTip": "E:\\1\u00BA DAW\\Programaci\u00F3n\\AjedrezCa\u00F3tico\\AjedrezCa\u00F3tico\\PiezaAbstracta.cs",
+              "RelativeToolTip": "AjedrezCa\u00F3tico\\PiezaAbstracta.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAA4wBoAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T15:25:23.74Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Game1.cs",
+              "DocumentMoniker": "E:\\1\u00BA DAW\\Programaci\u00F3n\\AjedrezCa\u00F3tico\\AjedrezCa\u00F3tico\\Game1.cs",
+              "RelativeDocumentMoniker": "AjedrezCa\u00F3tico\\Game1.cs",
+              "ToolTip": "E:\\1\u00BA DAW\\Programaci\u00F3n\\AjedrezCa\u00F3tico\\AjedrezCa\u00F3tico\\Game1.cs",
+              "RelativeToolTip": "AjedrezCa\u00F3tico\\Game1.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAowA8AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T16:14:59.2Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "PiezaReina.cs",
+              "DocumentMoniker": "E:\\1\u00BA DAW\\Programaci\u00F3n\\AjedrezCa\u00F3tico\\AjedrezCa\u00F3tico\\PiezaReina.cs",
+              "RelativeDocumentMoniker": "AjedrezCa\u00F3tico\\PiezaReina.cs",
+              "ToolTip": "E:\\1\u00BA DAW\\Programaci\u00F3n\\AjedrezCa\u00F3tico\\AjedrezCa\u00F3tico\\PiezaReina.cs",
+              "RelativeToolTip": "AjedrezCa\u00F3tico\\PiezaReina.cs",
+              "ViewState": "AQIAAMIAAAAAAAAAAAAwwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T15:10:04.376Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PiezaPato.cs",
+              "DocumentMoniker": "E:\\1\u00BA DAW\\Programaci\u00F3n\\AjedrezCa\u00F3tico\\AjedrezCa\u00F3tico\\PiezaPato.cs",
+              "RelativeDocumentMoniker": "AjedrezCa\u00F3tico\\PiezaPato.cs",
+              "ToolTip": "E:\\1\u00BA DAW\\Programaci\u00F3n\\AjedrezCa\u00F3tico\\AjedrezCa\u00F3tico\\PiezaPato.cs",
+              "RelativeToolTip": "AjedrezCa\u00F3tico\\PiezaPato.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T18:04:13.675Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PiezaRey.cs",
+              "DocumentMoniker": "E:\\1\u00BA DAW\\Programaci\u00F3n\\AjedrezCa\u00F3tico\\AjedrezCa\u00F3tico\\PiezaRey.cs",
+              "RelativeDocumentMoniker": "AjedrezCa\u00F3tico\\PiezaRey.cs",
+              "ToolTip": "E:\\1\u00BA DAW\\Programaci\u00F3n\\AjedrezCa\u00F3tico\\AjedrezCa\u00F3tico\\PiezaRey.cs",
+              "RelativeToolTip": "AjedrezCa\u00F3tico\\PiezaRey.cs",
+              "ViewState": "AQIAAEcAAAAAAAAAAAAwwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T15:10:10.537Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PiezaTorre.cs",
+              "DocumentMoniker": "E:\\1\u00BA DAW\\Programaci\u00F3n\\AjedrezCa\u00F3tico\\AjedrezCa\u00F3tico\\PiezaTorre.cs",
+              "RelativeDocumentMoniker": "AjedrezCa\u00F3tico\\PiezaTorre.cs",
+              "ToolTip": "E:\\1\u00BA DAW\\Programaci\u00F3n\\AjedrezCa\u00F3tico\\AjedrezCa\u00F3tico\\PiezaTorre.cs",
+              "RelativeToolTip": "AjedrezCa\u00F3tico\\PiezaTorre.cs",
+              "ViewState": "AQIAAGUAAAAAAAAAAAAwwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T15:10:33.811Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\1\u00BA DAW\\Programaci\u00F3n\\AjedrezCa\u00F3tico\\AjedrezCa\u00F3tico\\Program.cs",
+              "RelativeDocumentMoniker": "AjedrezCa\u00F3tico\\Program.cs",
+              "ToolTip": "E:\\1\u00BA DAW\\Programaci\u00F3n\\AjedrezCa\u00F3tico\\AjedrezCa\u00F3tico\\Program.cs",
+              "RelativeToolTip": "AjedrezCa\u00F3tico\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T15:10:38.95Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MenuForms.cs [Dise\u00F1o]",
+              "DocumentMoniker": "E:\\1\u00BA DAW\\Programaci\u00F3n\\AjedrezCa\u00F3tico\\AjedrezCa\u00F3tico\\MenuForms.cs",
+              "RelativeDocumentMoniker": "AjedrezCa\u00F3tico\\MenuForms.cs",
+              "ToolTip": "E:\\1\u00BA DAW\\Programaci\u00F3n\\AjedrezCa\u00F3tico\\AjedrezCa\u00F3tico\\MenuForms.cs [Dise\u00F1o]",
+              "RelativeToolTip": "AjedrezCa\u00F3tico\\MenuForms.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T15:04:55.692Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Constantes.cs",
+              "DocumentMoniker": "E:\\1\u00BA DAW\\Programaci\u00F3n\\AjedrezCa\u00F3tico\\AjedrezCa\u00F3tico\\Constantes.cs",
+              "RelativeDocumentMoniker": "AjedrezCa\u00F3tico\\Constantes.cs",
+              "ToolTip": "E:\\1\u00BA DAW\\Programaci\u00F3n\\AjedrezCa\u00F3tico\\AjedrezCa\u00F3tico\\Constantes.cs",
+              "RelativeToolTip": "AjedrezCa\u00F3tico\\Constantes.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T15:12:24.701Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Contenido.cs",
+              "DocumentMoniker": "E:\\1\u00BA DAW\\Programaci\u00F3n\\AjedrezCa\u00F3tico\\AjedrezCa\u00F3tico\\Contenido.cs",
+              "RelativeDocumentMoniker": "AjedrezCa\u00F3tico\\Contenido.cs",
+              "ToolTip": "E:\\1\u00BA DAW\\Programaci\u00F3n\\AjedrezCa\u00F3tico\\AjedrezCa\u00F3tico\\Contenido.cs",
+              "RelativeToolTip": "AjedrezCa\u00F3tico\\Contenido.cs",
+              "ViewState": "AQIAAIMAAAAAAAAAAAAIwDEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T15:33:43.112Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Interfaces.cs",
+              "DocumentMoniker": "E:\\1\u00BA DAW\\Programaci\u00F3n\\AjedrezCa\u00F3tico\\AjedrezCa\u00F3tico\\Interfaces.cs",
+              "RelativeDocumentMoniker": "AjedrezCa\u00F3tico\\Interfaces.cs",
+              "ToolTip": "E:\\1\u00BA DAW\\Programaci\u00F3n\\AjedrezCa\u00F3tico\\AjedrezCa\u00F3tico\\Interfaces.cs",
+              "RelativeToolTip": "AjedrezCa\u00F3tico\\Interfaces.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAIwB8AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T15:05:09.989Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Pantalla.cs",
+              "DocumentMoniker": "E:\\1\u00BA DAW\\Programaci\u00F3n\\AjedrezCa\u00F3tico\\AjedrezCa\u00F3tico\\Pantalla.cs",
+              "RelativeDocumentMoniker": "AjedrezCa\u00F3tico\\Pantalla.cs",
+              "ToolTip": "E:\\1\u00BA DAW\\Programaci\u00F3n\\AjedrezCa\u00F3tico\\AjedrezCa\u00F3tico\\Pantalla.cs",
+              "RelativeToolTip": "AjedrezCa\u00F3tico\\Pantalla.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T14:19:22.24Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
